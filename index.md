@@ -9,7 +9,7 @@
   - Art :) Just recently I downloaded the Procreate app which makes drawing and painting digitally a really smooth experience. The layer function is super cool and useful and I see myself doing a lot of art with the acrylic brushes available in the app. It's pretty amazing stuff. 
   First art piece with Procreate :)
 
-  ![](Pier.png)
+  ![Pier Image](Pier.PNG)
   - Gaming :0 I'm mostly into JRPG's (I like story/character focused games a lot). I started FF7 recently which is a lot of campy fun and have tried a few demos of new RPG style games that are coming out soon or have come out, like Bravely Default II or Project Triangle Strategy. I also have like 100 hours on Hades oops.
 
 ### Netflix Recs
